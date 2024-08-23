@@ -1,0 +1,1 @@
+var json_Pasar_7 = {"type":"FeatureCollection","name":"Pasar_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Keterangan":"Pasar Muara Ilo"},"geometry":{"type":"MultiPoint","coordinates":[[117.568960453081544,-0.514181093655584]]}}]}

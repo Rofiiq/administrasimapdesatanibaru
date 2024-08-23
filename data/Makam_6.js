@@ -1,0 +1,1 @@
+var json_Makam_6 = {"type":"FeatureCollection","name":"Makam_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Keterangan":"Makam"},"geometry":{"type":"MultiPoint","coordinates":[[117.56820536774309,-0.513282037237485]]}}]}

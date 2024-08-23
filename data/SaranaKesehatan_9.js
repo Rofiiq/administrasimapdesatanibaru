@@ -1,0 +1,1 @@
+var json_SaranaKesehatan_9 = {"type":"FeatureCollection","name":"SaranaKesehatan_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Keterangan":"Puskesmas Pembantu"},"geometry":{"type":"MultiPoint","coordinates":[[117.569062717217435,-0.514604221651353]]}}]}
